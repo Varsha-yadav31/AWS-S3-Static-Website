@@ -1,6 +1,8 @@
 # AWS-S3-Static-Website
 
 AWS S3 Static Website Hosting Project
+<img width="1280" height="720" alt="s3-architecture" src="https://github.com/user-attachments/assets/97049af4-87bf-47b8-b750-a370965231b3" />
+
 
 Overview
 
